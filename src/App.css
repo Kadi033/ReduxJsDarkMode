@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.checkbox-custom {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .checkbox-custom:checked {
+    background-image: url('./assets/checked.png'); 
+    background-size: cover;
+  }
+  
